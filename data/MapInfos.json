@@ -1,9 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Afternoon 1-1","order":6,"parentId":5,"scrollX":309,"scrollY":302.5},
+{"id":1,"expanded":false,"name":"Afternoon 1-1","order":6,"parentId":5,"scrollX":542,"scrollY":305},
 {"id":2,"expanded":true,"name":"Opening","order":1,"parentId":0,"scrollX":542,"scrollY":305},
 {"id":3,"expanded":true,"name":"Opening 1","order":2,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":false,"name":"Opening 2","order":3,"parentId":2,"scrollX":542,"scrollY":305},
 {"id":5,"expanded":true,"name":"Day 1","order":4,"parentId":0,"scrollX":542,"scrollY":305},
-{"id":6,"expanded":true,"name":"Start-1","order":5,"parentId":5,"scrollX":542,"scrollY":305}
+{"id":6,"expanded":true,"name":"Start-1","order":5,"parentId":5,"scrollX":542,"scrollY":305},
+{"id":7,"expanded":false,"name":"Field","order":7,"parentId":0,"scrollX":542,"scrollY":305}
 ]
